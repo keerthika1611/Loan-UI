@@ -1,0 +1,19 @@
+
+.ListItem{
+    color:black;
+    font-weight: 500;
+}
+
+
+nav .ListItem.Mui-selected{
+    background-color:#0b0b86;
+    /* border-right: #0000cc; */
+    color:white;
+    
+}
+nav .ListItem.Mui-selected:hover{
+    background-color:#0303a2;
+    /* border-right: #0000cc; */
+    color:white;
+    
+}
